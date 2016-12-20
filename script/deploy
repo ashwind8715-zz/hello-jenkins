@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh centos@52.79.97.11 <<EOF
+ssh nodeuser@52.79.97.11 <<EOF
   cd ~/hello-jenkins
   git pull
   npm install --production

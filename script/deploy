@@ -7,6 +7,4 @@ ssh nodeuser@52.79.97.11 <<EOF
   forever restartall
   exit
 EOF
-~
-~
 
